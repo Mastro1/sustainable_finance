@@ -1,5 +1,5 @@
 # Sustainable Finance
-This course aims to expose students to the fast-growing areas of sustainable finance and impact investing 🌱. 
+This course aims to expose students to the fast-growing areas of sustainable finance and impact investing.🌱
 
 Two out of four assignments that were done during the semester were coding challenges in which we had to compute different portfolios and comment on the results. In both homeworks, we analyzed the stock information of the developing countries. 📈
 
